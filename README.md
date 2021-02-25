@@ -1,6 +1,13 @@
 # matlab_IA
-Aqui estão contidos dois exemplos de redes neurais artificiais:
-1: Rede Adaline.
-2: Rede Perceptron de camada simples.
+Este documento contem dois links para videos explicativos da rede neural Perceptron de camada única e Perceptron Adaline:
 
-Os dois exemplos foram criados no Matlab.
+Também está contido um exemplo de rede Perceptron Adaline criado no matlab.
+
+
+Link para assisitr um video explicativo sobre a rede Perecptron de camada única no Youtube:
+
+https://www.youtube.com/watch?v=1Q0FYfUlGuY
+
+Link para assisitr um video explicativo sobre a rede Adaline no Youtube:
+
+https://www.youtube.com/watch?v=9YsapKpNAWA
